@@ -5,7 +5,7 @@
 ```git
 git init leonidzhuravlev                                          # Создать свой репозиторий в таким же именем, как и имя пользователя 
 git clone git@github.com:leonidzhuravlev/leonidzhuravlev.git      # Склонировать его на свой компьютер в отдельную папку
-git clone git@github.com:testrusau/testrusau.git                  # Склонировать себе <ul><a href="https://github.com/testrusau/testrusau">следующий репозиторий</a> в отдельную папку</ul>
+git clone git@github.com:testrusau/testrusau.git                  # Склонировать себе репозиторий https://github.com/testrusau/testrusau в отдельную папку
 cd testrusau                                                      # Запушить данные из репозитория artichokeee в ваш репозиторий из шага 2
 git push git@github.com:leonidzhuravlev/testrusau.git main:main
 git commit -m "commited change description"                       # Открыть файл README.md и поочередно заменить каждый блок на вашу информацию. Каждое изменений блока сделать через отдельный коммит.
