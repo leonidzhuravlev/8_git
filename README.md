@@ -1,5 +1,5 @@
 # git common commands🖇️
-#####I present a set of basic commands that allowed me to create a portfolio on GitHub.
+##### I present a set of basic commands that allowed me to create a portfolio on GitHub.
 ## Task 1
 #### Creating, cloning, pushing and pulling repositories  
 ```git
